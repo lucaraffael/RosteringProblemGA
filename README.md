@@ -21,3 +21,5 @@ Publication year: January 2020
 Published by Packt Publishing Ltd. Livery Place 35 Livery Street Birmingham B3 2PB, UK.
 
 ISBN 978-1-83855-774-4
+
+Wirsansky, Eyal: Hands-On Genetic Algorithms with Python : Applying genetic algorithms to solve real-world deep learning and artificial intelligence problems. Birmingham: Packt Publishing Ltd, 2020.
