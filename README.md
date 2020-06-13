@@ -7,7 +7,7 @@ The following libraries are required to run the python script.
 
 `pip install deap numpy matplotlib seaborn`
 
-`python workers.py`
+`python ga-worker.py`
 
 
 The Code we used is based on the following resource (book):
